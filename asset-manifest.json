@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Task-Scheduler/static/css/main.822f0d4d.chunk.css",
+    "main.js": "/Task-Scheduler/static/js/main.50bc767d.chunk.js",
+    "main.js.map": "/Task-Scheduler/static/js/main.50bc767d.chunk.js.map",
+    "runtime-main.js": "/Task-Scheduler/static/js/runtime-main.3a648603.js",
+    "runtime-main.js.map": "/Task-Scheduler/static/js/runtime-main.3a648603.js.map",
+    "static/js/2.526b9c53.chunk.js": "/Task-Scheduler/static/js/2.526b9c53.chunk.js",
+    "static/js/2.526b9c53.chunk.js.map": "/Task-Scheduler/static/js/2.526b9c53.chunk.js.map",
+    "static/js/3.ae92d245.chunk.js": "/Task-Scheduler/static/js/3.ae92d245.chunk.js",
+    "static/js/3.ae92d245.chunk.js.map": "/Task-Scheduler/static/js/3.ae92d245.chunk.js.map",
+    "index.html": "/Task-Scheduler/index.html",
+    "static/css/main.822f0d4d.chunk.css.map": "/Task-Scheduler/static/css/main.822f0d4d.chunk.css.map",
+    "static/js/2.526b9c53.chunk.js.LICENSE.txt": "/Task-Scheduler/static/js/2.526b9c53.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a648603.js",
+    "static/js/2.526b9c53.chunk.js",
+    "static/css/main.822f0d4d.chunk.css",
+    "static/js/main.50bc767d.chunk.js"
+  ]
+}
