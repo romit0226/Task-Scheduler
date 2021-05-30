@@ -2,7 +2,10 @@
 
  It includes the react ui as well as JSON-server!
 
+
 ## Usage
+
+### Deployment (https://romit0226.github.io/Task-Scheduler/)
 
 ### Install dependencies
 
@@ -15,6 +18,8 @@ npm install
 ```
 npm start
 ```
+
+
 
 ### Run the JSON server (http://localhost:5000)
 
